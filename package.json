@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/10-hotel-room",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a 10-hotel-room",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/10-hotel-room.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://transpero.net/10-hotel-room-design-ideas-home/"
+    },
+    "homepage": "https://transpero.net/10-hotel-room-design-ideas-home/"
+}
